@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+pincher_data.db
+.env
